@@ -230,7 +230,7 @@ color: var( --main-color);
 .card-h3 {
   font-size: 45px;
   text-align: center;
-  font-weight: bold;
+  font-weight: 750;
   color: var(--main-color);
 }
 
