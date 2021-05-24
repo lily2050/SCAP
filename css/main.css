@@ -145,9 +145,10 @@ width: 100%;
   position: absolute;
   background-color: #f6f6f6;
   right: 0;
-  min-width: 200px;
+  min-width: 220px;
   top : calc(100% + 20px);
   display: none;
+  text-align: right;
 }
 
 .header .links ul:before {
